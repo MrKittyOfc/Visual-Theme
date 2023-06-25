@@ -17,7 +17,6 @@
 :root {
   /* Add the animation rule here */
   animation: none !important;
-}
 
   /* ACCENT COLORS */
   --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
