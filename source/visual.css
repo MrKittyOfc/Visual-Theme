@@ -15,6 +15,10 @@
 
 /* SETTINGS */
 :root {
+  /* Add the animation rule here */
+  animation: none !important;
+}
+
   /* ACCENT COLORS */
   --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
@@ -112,8 +116,4 @@
   --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
   --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
-}
-
-/* Add the animation rule here */
-  animation: none !important;
 }
