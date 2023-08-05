@@ -13,11 +13,6 @@
 /* IMPORT CSS */
 @import url(https://raw.githubusercontent.com/MrKittyOfc/Visual-Theme/master/source/main.css);
 
-/* Disable Animations */
-* {
-  animation: none !important;
-}
-
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
